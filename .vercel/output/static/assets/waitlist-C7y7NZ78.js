@@ -1,0 +1,1 @@
+import{t as e}from"./react-CBcD1_bY.js";var t=`lotlens-waitlist`,n=e(e=>({email:null,ready:!1,hydrate:()=>{try{e({email:localStorage.getItem(t),ready:!0})}catch{e({ready:!0})}},join:n=>{try{localStorage.setItem(t,n)}catch{}e({email:n})}}));function r(e){return/^[^\s@]+@[^\s@]+\.[^\s@]+$/.test(e)}export{n,r as t};

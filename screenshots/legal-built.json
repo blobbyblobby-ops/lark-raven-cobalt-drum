@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/legal",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "IP notice — LotLens",
+      "hasCanvas": false,
+      "bodyTextLen": 1731,
+      "bodyTextHash": "dbb8cd7a6e70c3c25a5e534711f8cdaf48f09aefd553468bfbd7587a5088b3c2",
+      "bodyTextPrefix": "LotLens Back to LotLens Legal Intellectual property notice © 202",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/legal-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "IP notice — LotLens",
+      "hasCanvas": false,
+      "bodyTextLen": 1731,
+      "bodyTextHash": "dbb8cd7a6e70c3c25a5e534711f8cdaf48f09aefd553468bfbd7587a5088b3c2",
+      "bodyTextPrefix": "LotLens Back to LotLens Legal Intellectual property notice © 202",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/legal-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/legal-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

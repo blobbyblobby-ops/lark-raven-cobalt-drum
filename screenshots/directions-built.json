@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/directions",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Studies — LotLens",
+      "hasCanvas": false,
+      "bodyTextLen": 3443,
+      "bodyTextHash": "5ae7455c99980ac85dfdcb437ca0f0bcd3fe275b00990064583543505f417357",
+      "bodyTextPrefix": "LotLens Back to LotLens Studies Five notices, five lines, five l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/directions-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Studies — LotLens",
+      "hasCanvas": false,
+      "bodyTextLen": 3443,
+      "bodyTextHash": "5ae7455c99980ac85dfdcb437ca0f0bcd3fe275b00990064583543505f417357",
+      "bodyTextPrefix": "LotLens Back to LotLens Studies Five notices, five lines, five l",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/directions-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/directions-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
